@@ -3,5 +3,5 @@
  
 ansible_python_interpreter: /usr/bin/python3
  
-remote_user: node2
+remote_user: ubuntu
 docker_group: docker
