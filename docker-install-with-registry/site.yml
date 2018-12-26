@@ -3,7 +3,7 @@
  
 - name: Configurations to "remote" host
   hosts: remote
-  remote_user: node # Remote user
+  remote_user: ubuntu # Remote user
   become: yes
   roles:
     - setup
